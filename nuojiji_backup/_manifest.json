@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1786898802777,
+  "timestamp": 1787204815446,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -67,38 +67,6 @@
     "naiVibeCache",
     "_migration"
   ],
-  "completedTables": {
-    "characters": true,
-    "worldBooks": true,
-    "stickers": true,
-    "stickerStore": true,
-    "quickReplies": true,
-    "goingOutState": true,
-    "goingOutAreas": true,
-    "mapRasterCache": true,
-    "customGames": true,
-    "customWidgetTemplates": true,
-    "customWidgetState": true,
-    "wallpapers": true,
-    "whiteDogData": true,
-    "isekaiSaves": true,
-    "pomodoroData": true,
-    "regexRules": true,
-    "mcpServers": true,
-    "thinkingStore": true,
-    "commitments": true,
-    "characterLifeState": true,
-    "chikanPhoneSkins": true,
-    "healthEntries": true,
-    "healthProfile": true,
-    "homelandState": true,
-    "fontStore": true,
-    "customBgm": true,
-    "radioData": true,
-    "isekaiPresets": true,
-    "naiVibeCache": true,
-    "_migration": true
-  },
   "source": "auto",
-  "inProgress": false
+  "inProgress": true
 }
