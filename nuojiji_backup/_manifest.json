@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1789660202600,
+  "timestamp": 1789660258057,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -94,6 +94,9 @@
     "charLifePlans",
     "_migration"
   ],
+  "chunkedTables": {
+    "healthEntries": 2
+  },
   "completedTables": {
     "characters": true,
     "friendRequests": true,
@@ -148,7 +151,8 @@
     "thinkingStore": true,
     "commitments": true,
     "characterLifeState": true,
-    "chikanPhoneSkins": true
+    "chikanPhoneSkins": true,
+    "healthProfile": true
   },
   "source": "auto",
   "inProgress": true
