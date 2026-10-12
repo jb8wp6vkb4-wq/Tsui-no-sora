@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791806396634,
+  "timestamp": 1791806632243,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -95,7 +95,8 @@
     "_migration"
   ],
   "chunkedTables": {
-    "imageStore": 8
+    "imageStore": 8,
+    "healthEntries": 2
   },
   "completedTables": {
     "characters": true,
@@ -153,7 +154,9 @@
     "regexRules": true,
     "mcpServers": true,
     "thinkingStore": true,
-    "commitments": true
+    "commitments": true,
+    "characterLifeState": true,
+    "chikanPhoneSkins": true
   },
   "source": "auto",
   "inProgress": true
